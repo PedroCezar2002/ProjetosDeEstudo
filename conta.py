@@ -1,4 +1,4 @@
-# conta = Conta(133,'pedro',1000.0,2000.0)
+# Modelo de contas de banco com funções especificas
 
 class Conta:
 
